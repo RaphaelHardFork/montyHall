@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "RaphaelHardFork <raphael.pellet@protonmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
 }

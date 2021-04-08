@@ -1,0 +1,5 @@
+raph: GATE n°2 | Gate changed? false | he/she wins a GOAT
+roger: GATE n°3 | Gate changed? true | he/she wins a CAR
+raph: GATE n°2 | Gate changed? false | he/she wins a GOAT
+raph2: GATE n°2 | Gate changed? false | he/she wins a GOAT
+raphael: GATE n°1 | Gate changed? false | he/she wins a CAR
